@@ -530,7 +530,7 @@ const Contact = () => {
             viewport={{ once: true }}
           >
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d30569.202990640013!2d78.65442050358216!3d11.1144443688747!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baa559b75a3d891%3A0x3714f2b156f464cd!2sLucid%20petro%20chemical!5e0!3m2!1sen!2sin!4v1749189203946!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3914.9949326433643!2d78.6481752750468!3d11.113754889056306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTHCsDA2JzQ5LjUiTiA3OMKwMzknMDIuNyJF!5e0!3m2!1sen!2sin!4v1753161636338!5m2!1sen!2sin"
               width="100%"
               height="500"
               style={{ border: 0 }}
